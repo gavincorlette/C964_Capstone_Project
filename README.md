@@ -1,1 +1,1 @@
-# C964_Capstone_Project
+# WGU Computer Science Capstone Project (C964)
